@@ -1,16 +1,45 @@
-## Hi there 👋
+<!DOCTYPE html>
 
-<!--
-**stevensstories/StevensStories** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+    .container {
+      width: 50%;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: ;
+      border: ;
+      border-radius: 8px;
+      text-align: justified;
+    }
+  </style>
+</head>
+<body style="background-color: #830abb";>
+<font color="59ce8f">
+<!-- Elfsight Age Verification | Untitled Age Verification -->
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-6bc97de3-b1bb-4930-8dc8-b1fde3e7dc25" data-elfsight-app-lazy></div>
 
-Here are some ideas to get you started:
+<center><h1><b>Steven's Stories</h1><br>
+<h3>They're not good, so they're free<br>
+But if you're bored, feel free to read</h3></center>
+<BR><BR><BR>
+<div class="container">
+Wrote my first story when I was 10. Sometimes I wish I still had that story. I've tried to recreate it,
+I can't. I guess my imagination was better back then. I have three stories published on Amazon that aren't 
+making me any money, so why bother? Here are some of my stories. I love to write, but hate to read. 
+Sometimes my stories get a bit dialogue heavy. But the important parts have good descriptions. Take a look.
+No, my stories aren't for young eyes.
+</div>
+<BR><BR><BR><BR>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="file:///C:/Users/thebe/source/repos/theStoryofStevenandEm.html">The Story of Steven and Em</a>
+
+
+
+
+
+</body>
+</html>
